@@ -1,0 +1,21 @@
+.navbar{
+  display: flex;
+  font-family: 'in';
+  background-color: #21222A;
+  align-items: center;
+  width: 100%;
+  height: 91px;
+}
+
+.reactLogo{
+  width: 28.93px;
+  height: 28.93px;
+  padding: 31px 26px;
+}
+
+.text{
+  font-family: 'inter',sans-serif;
+  font-weight: 700;
+  color: #61DAFB;
+  font-size: 22.25px;
+}
