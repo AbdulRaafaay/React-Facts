@@ -18,7 +18,7 @@ A simple React application that displays interesting facts about React.js with a
 
 ## Installation & Setup
 
-- git clone https://github.com/your-username/react-facts.git
+- git clone https://github.com/AbdulRaafaay/React-Facts
 - cd React-Facts
 - npm install
 - npm run dev
